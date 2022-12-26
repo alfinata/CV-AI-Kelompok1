@@ -5,7 +5,7 @@ Kegiatan ini dilakukan untuk mencoba melakukan klasifikasi citra menggunakan mod
 Kodingan notebook yang dipakai merujuk pada [file colab ini](https://github.com/techzizou/yolov4-custom_Training) dan untuk [site github ini](https://github.com/techzizou/yolov4-custom_Training).
 
 ## Dataset
-Dataset yang dipakai merujuk ke [site kaggle ini](https://www.kaggle.com/datasets/sdevkota007/vehicles-nepal).  Dataset lalu dikelompokkan menjadi 3 kelas utama; mobil, truk, dan bus. Citra lalu dianotasi secara manual menggunakan [tools ini](https://github.com/techzizou/OpenLabeling).
+Dataset yang dipakai merujuk ke [site kaggle ini](https://www.kaggle.com/datasets/sdevkota007/vehicles-nepal).  Dataset lalu dikelompokkan menjadi 3 kelas utama; mobil, truk, dan bus. Citra lalu dianotasi secara manual menggunakan [tools ini](https://github.com/techzizou/OpenLabeling). Dataset akhir sebelum masuk ke model dapat diakses [di sini](https://drive.google.com/drive/folders/19rPellKfH1cEiQYhg3sWIh0rOwYYzCjU?usp=share_link).
 
 ## Environment
 Kodingan secara keseluruhan dilakukan pada google colab, menggunakan [library darknet](https://github.com/AlexeyAB/darknet) dan drive pribadi.
