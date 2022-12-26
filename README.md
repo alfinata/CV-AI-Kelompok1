@@ -21,3 +21,9 @@ Weight yang sudah didapat tadi dipakai detector untuk test ke data baru untuk me
 ![](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/images/testin1.png)
 ![](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/images/testin2.png)
 ![](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/images/testin3.png)
+
+Namun karena keterbatasan varian dataset, model yang dipakai masih kurang bahkan belum bisa melakukan klasifikasi pada citra lain.
+
+![](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/images/testin4.png)
+![](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/images/testin5.png)
+![](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/images/testin6.png)
