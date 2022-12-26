@@ -13,5 +13,11 @@ Kodingan secara keseluruhan dilakukan pada google colab, menggunakan [library da
 ## Training
 Training dilakukan menggunakan dataset sekitar 405 citra yang sudah dianotasi. Proses ini dilakukan selama sekitar 2 jam dan dengan nilai avg loss terakhir sebesar 0.4737.
 
-
 ![](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/images/training.png)
+
+## Testing
+Weight yang sudah didapat tadi dipakai detector untuk test ke data baru untuk melakukan klasifikasi. Berikut adalah hasil deteksi pada citra dari dataset awal.
+
+![](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/images/testin1.png)
+![](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/images/testin2.png)
+![](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/images/testin3.png)
