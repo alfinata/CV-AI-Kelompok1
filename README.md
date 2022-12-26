@@ -27,3 +27,9 @@ Namun karena keterbatasan varian dataset, model yang dipakai masih kurang bahkan
 ![](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/images/testin4.png)
 ![](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/images/testin5.png)
 ![](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/images/testin6.png)
+
+## Folder Github
+Folder [yolov4](https://github.com/alfinata/CV-AI-Kelompok1/tree/main/yolov4) merupakan folder yang digunakan untuk melakukan custom training. [File notebook](https://github.com/alfinata/CV-AI-Kelompok1/blob/main/YOLO%20for%20Vehicle%20Classification%20-%20Kelompok%201.ipynb) sudah tercantum dan dapat dibuka juga pada [google colab ini](https://colab.research.google.com/drive/1DxO_xyzHVq-8NWo65KujKbnsnqB_UIVZ?usp=sharing).
+
+## Penutup
+Kegiatan ini dilakukan dalam proses pembelajaran pada Focus Group Lab AI oleh Kelompok 1, dengan anggota Alfinata Yusuf Sitaba dan Dindin Inas Candra Wiguna.
